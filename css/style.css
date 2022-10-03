@@ -1,0 +1,209 @@
+.navbar-brand img
+{
+    max-width: 130px;
+    margin-left: 20px;
+    
+}
+
+#confbsas
+{
+    color:white;
+    margin-right: 850px;
+
+}
+
+#conferencia_boton
+{
+    color: white;   
+    margin-right: 5px;
+
+}
+
+#oradores_boton
+{
+    color: grey;
+    margin-right: 5px;
+
+}
+
+#lugarfecha_boton
+{
+    color:grey;
+    margin-right: 5px;
+
+}
+
+#orador_boton
+{
+    color:grey;
+    margin-right: 5px;
+
+}
+
+#comprarticket_boton
+{
+    color:#25a342;
+    margin-right: 5px;
+}
+
+#tituloconoce
+{
+    font-size: large;
+    text-align: center;
+}
+
+#titulooradores
+{
+    font-size: xx-large;
+    text-align: center;
+    
+    
+}
+
+.centrado
+{
+    color:white;
+    position: absolute;
+    top: 55%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    text-align:right
+}
+
+
+#imagen1_car
+{
+    filter:brightness(60%)
+}
+
+#imagen2_car
+{
+    filter:brightness(60%)
+}
+
+#imagen3_car
+{
+    filter:brightness(60%)
+}
+
+.card-title
+{
+    text-align: left
+}
+
+.card-text
+{
+    font-size: large;
+    margin-top: 5%;
+}
+
+#texto_anotate
+{
+    text-align: center;
+    font-size: x-large;
+}
+
+#card_horizontal
+{
+    background-color: #3a3d3d;
+}
+
+#card_horizontaltitulo
+{
+    color: white;
+}
+
+#card_horizontaltexto
+{
+    color:white
+}
+
+u {    
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+
+#texto_nombre
+{
+    margin-left:450px;
+    width: 500px;
+}
+
+#texto_apellido
+{
+    width: 500px;
+}
+#floatingTextarea
+{
+    margin-left:450px;
+    width: 1018px;
+}
+
+#texto_floating
+{
+    margin-left: 450px;
+    color: gray;
+}
+
+#boton_enviar
+{   
+    margin-bottom:  10px;
+    margin-left: 550px;
+    height: 50px;
+    width: 750px;
+}
+
+.navgradient
+{
+    background-image: linear-gradient(15deg, #0f0f0f 0%, #3a3d3d 100%);
+}
+
+#boton_preguntasfr
+{
+    color: white;
+    margin-left: 250px;
+    font-size: large;
+}
+
+#boton_contactanos
+{
+    color: white;
+    margin-left:105px;
+    font-size: large;
+}
+
+#boton_prensa
+{
+    color: white;
+    margin-left:105px;
+    font-size: large;
+}
+
+#boton_conferencias
+{
+    color: white;
+    margin-left:105px;
+    font-size: large;
+}
+
+#boton_terminos
+{
+    color: white;
+    
+    margin-left:105px;
+    font-size: large;
+}
+
+#boton_privacidad
+{
+    color: white;
+    margin-left:105px;
+    font-size: large;
+}
+
+#boton_estudiantes
+{
+    color: white;
+    margin-left:105px;
+    font-size: large;
+}
